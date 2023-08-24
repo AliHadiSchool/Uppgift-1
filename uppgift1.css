@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    background-color: blanchedalmond;
+
+}
+
+p {
+
+    font-family:'Times New Roman', Times, serif;
+
+    background-color: rgb(240, 255, 254);
+
+}
+
+h1 {
+    color: red;
+    
+}
+
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Columns{
+    columns: 2;
+}
